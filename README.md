@@ -40,7 +40,7 @@
 
 ---
 
-### **Published Games:**  
+### 🎮 **Published Games** 
 1. **[Spartacus Blood Arena](https://store.steampowered.com/app/3227750/Spartacus_Blood_Arena/?l=italian)**  
    - Developed core gameplay systems using Unreal Engine.  
 2. **[The Biggest Punch](https://www.stealthcompany.eu/the-biggest-punch/)**  
@@ -62,9 +62,9 @@
 
 ### ⚡ **Fun Facts**  
 
-- 🏎️ F1 enthusiast: Forza Ferrari!  
-- 🎸 I love rock and metal music.  
-- 🚗 Car enthusiast with a soft spot for American V8s.  
+- 🍣 Sushi lover, I treat myself when completing a milestone.  
+- 🐉 Working on a small Dungeons & Dragons project.  
+- 🎮 A big Nintendo enthusiast—can’t get enough of Zelda and Mario!  
 
 ---
 
