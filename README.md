@@ -1,6 +1,6 @@
 # Hi, I'm Marcello De Bonis 👋  
 
-... and this is my GitHub profile!  
+### ... and this is my GitHub profile!  
 
 🎮 I'm a **Lead Game Programmer** specializing in gameplay systems, tools, and game programming education.  
 🛠️ Passionate about delivering scalable and optimized solutions for mobile 📱, console 🎮, and PC 💻.  
@@ -8,7 +8,7 @@
 
 ---
 
-✌️ **About Me**  
+### ✌️ **About Me**  
 
 - 🐞 **Creating scalable solutions since 2017**  
 - 🔧 Currently focused on advancing **UGTK** (Unity Games Tool Kit).  
@@ -17,17 +17,15 @@
 
 ---
 
-## 💻 **I Code With**  
+### 💻 I Code With
 
-![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=csharp) ![Python](https://skillicons.dev/icons?i=python)  
-![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)  
+![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)  
 
 ---
 
-## 🛠️ **Tools I Use**  
+### 🛠️ **Tools I Use**  
 
-![Git](https://skillicons.dev/icons?i=git) ![Vscode](https://skillicons.dev/icons?i=vscode) ![Visualstudio](https://skillicons.dev/icons?i=visualstudio)  
-![UML](https://skillicons.dev/icons?i=uml)  
+![Git](https://skillicons.dev/icons?i=git) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) ![Rider](https://skillicons.dev/icons?i=rider) ![CMake](https://skillicons.dev/icons?i=cmake)  
 
 ---
 
