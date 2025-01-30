@@ -28,7 +28,7 @@
 
 ### 🛠️ **Tools I Use**  
 
-![Git](https://skillicons.dev/icons?i=git) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) ![Rider](https://skillicons.dev/icons?i=rider) ![CMake](https://skillicons.dev/icons?i=cmake)  
+![Git](https://skillicons.dev/icons?i=git) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) ![Rider](https://skillicons.dev/icons?i=rider)
 
 ---
 
