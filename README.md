@@ -57,6 +57,7 @@
 3. [**Deep Into Work**](https://eventhorizonschool.itch.io/deep-into-work)  
 4. [**Whispering Whiskers**](https://eventhorizonschool.itch.io/whispering-whiskers)  
 5. [**Rhythm Reborn**](https://eventhorizonschool.itch.io/rhythm-reborn)  
+6. [**BubbleBorne**](https://majimbu98.itch.io/bubbleborne)
 
 ---
 
