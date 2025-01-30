@@ -40,17 +40,7 @@
 
 ---
 
-### 🎮 **Published Games** 
-1. **[Spartacus Blood Arena](https://store.steampowered.com/app/3227750/Spartacus_Blood_Arena/?l=italian)**  
-   - Developed core gameplay systems using Unreal Engine.  
-2. **[The Biggest Punch](https://www.stealthcompany.eu/the-biggest-punch/)**  
-   - Unity-based action game with unique features and smooth performance.  
-3. **[Wave](https://socialbooth.it/gaming/)**  
-   - A Unity game for experiential marketing by SocialBooth.
-
----
-
-### 📂 **Portfolio**  
+### 📂 **Games Portfolio**  
 
 1. [**THK - Influencer**](https://www.vendittelligames.com/thk-dragoverse)  
 2. [**Wave**](https://socialbooth.it/gaming/)  
