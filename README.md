@@ -58,6 +58,8 @@
 4. [**Whispering Whiskers**](https://eventhorizonschool.itch.io/whispering-whiskers)  
 5. [**Rhythm Reborn**](https://eventhorizonschool.itch.io/rhythm-reborn)  
 6. [**BubbleBorne**](https://majimbu98.itch.io/bubbleborne)
+7. [**Spartacus Blood Arena**](https://store.steampowered.com/app/3227750/Spartacus_Blood_Arena/)
+8. [**The Biggest Punch**](https://www.stealthcompany.eu/the-biggest-punch/)
 
 ---
 
