@@ -13,9 +13,10 @@
 
 ### ✌️ **About Me**  
 
-- 🐞 **Creating scalable solutions since 2022**  
-- 🔧 Currently focused on advancing **UGTK** (Unity Games Tool Kit).  
+- 🎮 **Creating scalable game solutions since 2022**  
+- 🔧 Currently **Gaming Department Director** at SocialBooth.  
 - 💼 Lead Programmer with expertise in Unreal Engine, Unity, and C++/C#.  
+- 📚 Professional trainer and freelance systems architect.  
 - 🌱 Goals: Deliver innovative tools and systems while sharing knowledge with the community.  
 
 ---
@@ -35,21 +36,38 @@
 ### 🏆 **Top Projects**  
 
 ### **UGTK (Unity Games Tool Kit)**  
-- **Description:** An engine-in-engine offering pre-built systems for UI, state machines, pooling systems, and dynamic gameplay scenarios.  
+- **Description:** My engine-in-engine offering pre-built systems for UI, state machines, pooling systems, and dynamic gameplay scenarios.  
 - **Features:** Scalable, maintainable, and developer-friendly.  
+
+### **Mosaic Wall**  
+- **Description:** AI-powered live photo mosaic technology for events.  
+- **Features:** Real-time processing and automated print pipeline.  
+
+### **Beta Island**  
+- **Description:** Health-tech mobile app for young diabetics.  
+- **Features:** AI chatbot guide and gamified therapy management.  
 
 ---
 
 ### 📂 **Games Portfolio**  
 
-1. [**THK - Influencer**](https://www.vendittelligames.com/thk-dragoverse)  
-2. [**Wave**](https://socialbooth.it/gaming/)  
-3. [**Deep Into Work**](https://eventhorizonschool.itch.io/deep-into-work)  
-4. [**Whispering Whiskers**](https://eventhorizonschool.itch.io/whispering-whiskers)  
-5. [**Rhythm Reborn**](https://eventhorizonschool.itch.io/rhythm-reborn)  
-6. [**BubbleBorne**](https://majimbu98.itch.io/bubbleborne)
-7. [**Spartacus Blood Arena**](https://store.steampowered.com/app/3227750/Spartacus_Blood_Arena/)
-8. [**The Biggest Punch**](https://www.stealthcompany.eu/the-biggest-punch/)
+1. [**Spartacus Blood Arena**](https://store.steampowered.com/app/3227750/Spartacus_Blood_Arena/)  
+2. [**THK - Influencer**](https://www.vendittelligames.com/thk-dragoverse)  
+3. [**The Biggest Punch**](https://www.stealthcompany.eu/the-biggest-punch/)  
+4. [**Wave**](https://socialbooth.it/gaming/)  
+5. [**BigBroApp**](https://www.twitch.tv/moonryde) (WIP)  
+6. [**BubbleBorne**](https://majimbu98.itch.io/bubbleborne)  
+7. [**Hoffman Essentials**](https://socialbooth.it/casehistory/percorso-esperienziale-hoffman/)  
+8. [**Sanremo Quiz Challenge**](https://socialbooth.it/casehistory/sanremo-quiz-challenge-ladvergaming-che-ha-coinvolto-il-pubblico-del-festival/)  
+9. [**Giroland Memory**](https://socialbooth.it/casehistory/photobooth-memory-photoexpress-giroland/)  
+10. [**Project Tarantasio**](https://www.linkedin.com/company/skyroots-studio/) (WIP)  
+11. [**JMA Summer Party Experience**](https://socialbooth.it/casehistory/jma-percorso-esperienziale-perfetto/)  
+12. [**Instant Message Hoffman**](https://socialbooth.it/casehistory/percorso-esperienziale-hoffman/)  
+13. [**Tris**](https://socialbooth.it/advergaming/)  
+14. [**Box Of Clues**](https://socialbooth.it/casehistory/gamification-e-learning-daiichi-sankyo/)  
+15. [**Deep Into Work**](https://eventhorizonschool.itch.io/deep-into-work)  
+16. [**Whispering Whiskers**](https://eventhorizonschool.itch.io/whispering-whiskers)  
+17. [**Rhythm Reborn**](https://eventhorizonschool.itch.io/rhythm-reborn)  
 
 ---
 
@@ -57,7 +75,8 @@
 
 - 🍣 Sushi lover, I treat myself when completing a milestone.  
 - 🐉 Working on a small Dungeons & Dragons project.  
-- 🎮 A big Nintendo enthusiast—can’t get enough of Zelda and Mario!  
+- 🎮 A big Nintendo enthusiast—can't get enough of Zelda and Mario!  
+- 🚀 15+ shipped games and counting.  
 
 ---
 
